@@ -1,0 +1,10 @@
+/AdapterPattern/bin
+/AdapterPattern/obj
+/DesignPatterns/CompositePattern/bin
+/DesignPatterns/CompositePattern/obj
+/DesignPatterns/*.sln
+/DesignPatterns/DesignPatterns/*.csproj
+/DesignPatterns/DesignPatterns/obj
+/DesignPatterns/DesignPatterns/bin
+/DesignPatterns/.vs/DesignPatterns/v15/Server/sqlite3
+/DesignPatterns/.vs/DesignPatterns/v15
